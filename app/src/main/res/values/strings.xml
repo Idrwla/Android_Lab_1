@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WriteSomeText</string>
+    <string name="main_text">Some Text label</string>
+    <string name="submit_button">Подтвердить</string>
+    <string name="make_notification">Получить уведомление</string>
+    <string name="placeholder">Введите текст</string>
+</resources>
